@@ -9,6 +9,7 @@ The goal is to simulate the behavior of philosophers who alternate between **thi
 
 Create a simulation of the **Dining Philosophers Problem** using **pthreads** in C.  
 Each philosopher has a fork and must eat using two forks (shared resources), and the challenge is to synchronize access to these forks in a **safe and efficient** manner.
+
 ---
 
 ## 🛠️ Skills & Concepts
